@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{AC9A0869-ED0E-A3F3-EE64-33DDEB569735}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arikan.MiniMap", "Arikan.MiniMap.csproj", "{4039B6A1-E474-316A-E63B-DC7AF0C15ECE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arikan.MiniMap.Demo", "Arikan.MiniMap.Demo.csproj", "{D963DC88-5C39-11C1-39B3-BC66486D8A8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC9A0869-ED0E-A3F3-EE64-33DDEB569735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC9A0869-ED0E-A3F3-EE64-33DDEB569735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC9A0869-ED0E-A3F3-EE64-33DDEB569735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC9A0869-ED0E-A3F3-EE64-33DDEB569735}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4039B6A1-E474-316A-E63B-DC7AF0C15ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4039B6A1-E474-316A-E63B-DC7AF0C15ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4039B6A1-E474-316A-E63B-DC7AF0C15ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4039B6A1-E474-316A-E63B-DC7AF0C15ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D963DC88-5C39-11C1-39B3-BC66486D8A8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D963DC88-5C39-11C1-39B3-BC66486D8A8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D963DC88-5C39-11C1-39B3-BC66486D8A8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D963DC88-5C39-11C1-39B3-BC66486D8A8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
